@@ -1,2 +1,2 @@
 # hdrk-dashboard
-Dashboard de reporteria estadística 
+DEMO -- Dashboard de reporteria estadística 
